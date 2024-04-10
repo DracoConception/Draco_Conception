@@ -1,0 +1,42 @@
+body {
+    font-family: Comfortaa;
+    margin: 0;
+    background-color: #DCD2BE;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+header img {
+    width: 15rem;
+}
+
+header nav {
+    width: 40%;
+    font-size: 2rem;
+    margin-top: 3rem;
+}
+
+header ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-left: 5rem;
+}
+
+section {
+    border-bottom: black solid 3px;
+    border-radius: 20px;
+    height: 40rem;
+    margin: 10rem 10rem
+}
