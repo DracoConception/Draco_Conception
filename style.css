@@ -85,8 +85,6 @@ section {
     top: 10px;
     left: 50%;
     padding-bottom: 10px;
-    border-bottom: #000000 solid 6px;
-    border-radius: 0px 0px 0px 60px;
 }
 
 .arrow_down {
@@ -96,6 +94,6 @@ section {
     width: 40px;
 }
 
-.arrow_down:hover{
+.arrow_down:hover {
     opacity: 0.5;
 }
